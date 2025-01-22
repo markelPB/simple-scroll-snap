@@ -1,0 +1,19 @@
+{
+  "name": "com.daniellochner.simple-scroll-snap",
+  "version": "1.0.0",
+  "displayName": "Sinple Scroll Snap",
+  "description": "\"SimpleScroll-Snap\" is an elegantly designed, intuitive solution that allows for elements within a ScrollView to be snapped to, offering a wide range of customization options.",
+  "unity": "2022.3",
+  "documentationUrl": "https://github.com/daniellochner/simple-scroll-snap?tab=readme-ov-file#simple-scroll-snap",
+  "changelogUrl": "",
+  "licensesUrl": "https://github.com/daniellochner/simple-scroll-snap?tab=MIT-1-ov-file#readme",
+  "dependencies": {
+  },
+  "author": {
+    "name": "daniellochner",
+    "email": ""
+  },
+  "repository": {
+    "url": "https://github.com/markelPB/simple-scroll-snap.git"
+  }
+}
